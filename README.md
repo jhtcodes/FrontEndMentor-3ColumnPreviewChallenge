@@ -16,8 +16,7 @@ Here are the screenshots to the mobile view and the desktop view.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://jhtcodes.github.io/FrontEndMentor-3ColumnPreviewChallenge/)
 
 ### Built with
 
